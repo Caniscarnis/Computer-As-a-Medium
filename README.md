@@ -2,6 +2,6 @@
 
 ### Group Name: The Candies
 
-### Group Members: Wolf Ruiz and Jordan Azour
+### Group Members: Wolf Ruiz, Jordan Arzour, and Alyssa Foskett
 
 
